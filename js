@@ -1,4 +1,4 @@
 {
-  "server":"192.168.1.102",
+  "server":"pic.smart-ape.net",
   "port": "30007"
 }
