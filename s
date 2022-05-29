@@ -1,1 +1,1 @@
-pic.smart-ape.net
+192.168.1.101
